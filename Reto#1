@@ -1,5 +1,10 @@
 # Diccionario que almacena los videojuegos y sus puntuaciones promedio
 # La clave representa el nombre del juego y el valor su puntuación (0 - 10)
+
+
+# María José Montepeque Zet y Mónica Carolina Campos Rodrigez 
+
+
 games = {
     "The Legend of Zelda": 9.8,
     "Minecraft": 9.5,
